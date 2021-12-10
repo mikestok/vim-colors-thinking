@@ -6,6 +6,8 @@ preferences for editing code.
 It's called `thinking` because it seems less distracting for me, and
 allows me to _think_ while I’m writing code.
 
+![](screenshots/light.png)
+
 ## Rationale
 
 It probably won’t appeal to everyone because my sense of what looks good
@@ -38,21 +40,19 @@ I’m sketching things out. I like a pleasing font, and that’s subjective.
 - I prefer serifs if the display can handle them properly, and I _dislike_
   “programming ligatures”.
 
+[Elixir]: https://www.elixir-lang.org
+[Matthew Butterick]: https://mbtype.com/bio.html
+[Triplicate]: https://mbtype.com/fonts/triplicate/
+
 ## Lineage
 
 This started as a fork of [paramount][], and that in turn was based on the
 [pencil][] and [off][] colour schemes.
 
-## License
-
-I've used the copied the [MIT license](LICENSE) from [paramount][]
-
-## Links
-
 [paramount]: https://github.com/owickstrom/vim-colors-paramount
 [pencil]: https://github.com/reedes/vim-colors-pencil
 [off]: https://github.com/reedes/vim-colors-off
 
-[Elixir]: https://www.elixir-lang.org
-[Matthew Butterick]: https://mbtype.com/bio.html
-[Triplicate]: https://mbtype.com/fonts/triplicate/
+## License
+
+I've used the copied the [MIT license](LICENSE) from [paramount][]
